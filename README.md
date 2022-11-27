@@ -1,4 +1,4 @@
 - 👋 Hi, I’m **prr133f**
 - 👀 I’m interested in Backend Developing
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning C++ framework Userver
 - 📫 You can reach me in [Telegram](https://t.me/prr133f) or via [Email](mailto:prr133f@margined.studio)
