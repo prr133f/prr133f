@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **prr133f**
 - 👀 I’m interested in Backend Developing
-- 🌱 I know such technologies as Golang (with Gin framework), PostgreSQL and MariaDB
-- 📫 You can reach me in [Telegram](https://prr133f.t.me) or via [Email](mailto:prr133f@margined.studio)
-- 👨‍💻 Someday I will add a link to my portfolio here.
+- 🌱 My main programming language is Golang
+- 📫 You can reach me in [Telegram](https://prr133f.t.me)
+- 👨‍💻 Here you can find only my portfolio
