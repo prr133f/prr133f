@@ -1,5 +1,5 @@
 # Maintainer
-Dmitriy Krylov, an 18 y.o. golang dev
+Dmitriy Krylov, golang dev
 
 # Contacts
 
